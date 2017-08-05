@@ -14,14 +14,18 @@
         android:textSize="20sp"
         android:background="#e74c3c"
         android:layout_weight="1"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
         android:text="Hallo nama saya Hasan" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:textSize="20sp"
+        android:textColor="#FFFFFF"
         android:layout_weight="1"
         android:background="#2980b9"
+        android:textAlignment="center"
         android:text="Saya Hidup di Pati" />
 
     <LinearLayout
